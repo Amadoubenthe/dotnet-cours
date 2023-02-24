@@ -1,0 +1,15 @@
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\bin\Debug\net6.0\univassurence2.BusinessLogic.deps.json
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\bin\Debug\net6.0\univassurence2.BusinessLogic.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\bin\Debug\net6.0\univassurence2.BusinessLogic.pdb
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.AssemblyInfo.cs
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\refint\univassurence2.BusinessLogic.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.pdb
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\ref\univassurence2.BusinessLogic.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\bin\Debug\net6.0\univassurence2.dataAccess.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\bin\Debug\net6.0\univassurence2.dataAccess.pdb
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.BusinessLogic\obj\Debug\net6.0\univassurence2.BusinessLogic.csproj.CopyComplete

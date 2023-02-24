@@ -1,0 +1,14 @@
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\bin\Debug\net6.0\univassurence2.dataAccess.deps.json
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\bin\Debug\net6.0\univassurence2.dataAccess.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\bin\Debug\net6.0\univassurence2.dataAccess.pdb
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.AssemblyInfo.cs
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\refint\univassurence2.dataAccess.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.pdb
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\ref\univassurence2.dataAccess.dll
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\bin\Debug\net6.0\univassurence2.dataAccess.runtimeconfig.json
+C:\Users\INFI-STG4\Desktop\ProjectsInfiSpvie\Cour dotnet\univassurance2\univassurence2.dataAccess\obj\Debug\net6.0\univassurence2.dataAccess.genruntimeconfig.cache
